@@ -24,6 +24,7 @@ dnf install -y ImageMagick \
   net-tools \
   iputils \
   curl \
+  libxtst6 \
   git \
   jq \
   dos2unix \
