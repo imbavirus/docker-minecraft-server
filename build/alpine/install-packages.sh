@@ -13,6 +13,7 @@ apk add --no-cache -U \
     findutils \
     procps \
     shadow \
+    libxtst6 \
     bash \
     curl iputils \
     git \
