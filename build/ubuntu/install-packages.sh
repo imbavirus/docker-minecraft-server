@@ -15,6 +15,7 @@ apt-get install -y \
   net-tools \
   iputils-ping \
   curl \
+  libxtst6 \
   git \
   jq \
   dos2unix \
